@@ -5,12 +5,10 @@
 I'm currently pursuing **B.Tech in Computer Science & Engineering (AI)** and exploring **Full-Stack Development, AI/ML, and Software Development**.
 
 - 🔭 I'm currently working on **Full-Stack MERN projects**
-- 🌱 I'm currently learning **Machine Learning and Java**
+- 🌱 I'm currently learning **AI/ML and Java**
 - 💻 Interested in **Web Development, AI/ML & Software Development**
 - 🤝 I'm looking to collaborate on **interesting projects and hackathons**
-- 💬 Ask me about **MERN Stack, JavaScript, React, Python**
-- 📫 How to reach me: **Your-Email@example.com**
-- ⚡ Fun fact: **I believe consistency beats perfection.**
+- 📫 How to reach me: **akankshaverma919827@gmail.com**
 
 ---
 
