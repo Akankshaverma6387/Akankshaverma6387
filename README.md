@@ -1,16 +1,66 @@
-## Hi there 👋, I'm Akanksha Verma.
+# Hi there 👋, I'm Akanksha Verma
 
-<!--
-**Akankshaverma6387/Akankshaverma6387** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 CSE-AI Student | Full-Stack Developer | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+I'm currently pursuing **B.Tech in Computer Science & Engineering (AI)** and exploring the world of **Full-Stack Development, AI/ML, and Software Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on **Full-Stack MERN projects**
+- 🌱 I'm currently learning **Machine Learning and C++**
+- 💻 Interested in **Web Development, AI/ML & Software Development**
+- 🤝 I'm looking to collaborate on **interesting projects and hackathons**
+- 💬 Ask me about **MERN Stack, JavaScript, React, Python**
+- 📫 How to reach me: **Your-Email@example.com**
+- ⚡ Fun fact: **I believe consistency beats perfection.**
+
+---
+
+## 🚀 Languages and Tools
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+C • C++ • Python • JavaScript
+
+**Frontend:**  
+HTML • CSS • JavaScript • React
+
+**Backend:**  
+Node.js • Express.js
+
+**Database:**  
+MongoDB • MySQL
+
+**Tools:**  
+Git • GitHub • VS Code • Figma
