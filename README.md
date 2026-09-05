@@ -5,7 +5,7 @@
 I'm currently pursuing **B.Tech in Computer Science & Engineering (AI)** and exploring the world of **Full-Stack Development, AI/ML, and Software Development**.
 
 - 🔭 I'm currently working on **Full-Stack MERN projects**
-- 🌱 I'm currently learning **Machine Learning and C++**
+- 🌱 I'm currently learning **Machine Learning and Java**
 - 💻 Interested in **Web Development, AI/ML & Software Development**
 - 🤝 I'm looking to collaborate on **interesting projects and hackathons**
 - 💬 Ask me about **MERN Stack, JavaScript, React, Python**
@@ -18,9 +18,7 @@ I'm currently pursuing **B.Tech in Computer Science & Engineering (AI)** and exp
 
 <p align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
 
@@ -38,29 +36,4 @@ I'm currently pursuing **B.Tech in Computer Science & Engineering (AI)** and exp
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-C • C++ • Python • JavaScript
-
-**Frontend:**  
-HTML • CSS • JavaScript • React
-
-**Backend:**  
-Node.js • Express.js
-
-**Database:**  
-MongoDB • MySQL
-
-**Tools:**  
-Git • GitHub • VS Code • Figma
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql
