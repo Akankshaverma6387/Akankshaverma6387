@@ -87,32 +87,6 @@ Machine Learning • AI • Advanced MERN Development
 
 ---
 
-## 🚀 Featured Projects
-
-### 📊 Stock Trading Platform
-
-A modern stock-trading platform frontend built with React.
-
-**Tech:** React • JavaScript • CSS
-
----
-
-### 🧘 Yoga Analyzer
-
-An AI/computer-vision based project for analyzing yoga poses.
-
-**Tech:** Python • OpenCV • YOLO
-
----
-
-### 🎬 Movie Recommendation / Movie App
-
-A movie-focused web application with a modern user interface.
-
-**Tech:** MERN • JavaScript
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
@@ -121,7 +95,7 @@ A movie-focused web application with a modern user interface.
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/akanksha-verma-7a8723321">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
