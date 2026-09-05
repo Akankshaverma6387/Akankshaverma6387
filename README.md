@@ -53,17 +53,6 @@ Machine Learning • AI • Advanced MERN Development
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Akankshaverma6387&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akankshaverma6387&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -75,15 +64,6 @@ Machine Learning • AI • Advanced MERN Development
 
 ---
 
-## 📈 My Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akankshaverma6387&theme=github-dark&hide_border=true" alt="GitHub Activity Graph"/>
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
