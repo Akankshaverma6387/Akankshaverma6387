@@ -1,18 +1,18 @@
-# Hi there 👋, I'm Akanksha Verma
+# Hi there!, I'm Akanksha Verma
 
-### 💻 CSE-AI Student | Full-Stack Developer | AI/ML Enthusiast
+### CSE-AI Student | Full-Stack Developer | AI/ML Enthusiast
 
 I'm currently pursuing **B.Tech in Computer Science & Engineering (AI)** and exploring **Full-Stack Development, AI/ML, and Software Development**.
 
-- 🔭 I'm currently working on **Full-Stack MERN projects**
-- 🌱 I'm currently learning **AI/ML and Java**
-- 💻 Interested in **Web Development, AI/ML & Software Development**
-- 🤝 I'm looking to collaborate on **interesting projects and hackathons**
-- 📫 How to reach me: **akankshaverma919827@gmail.com**
+- I'm currently working on **Full-Stack MERN projects**
+- I'm currently learning **AI/ML and Java**
+- Interested in **Web Development, AI/ML & Software Development**
+- I'm looking to collaborate on **interesting projects and hackathons**
+- How to reach me: **akankshaverma919827@gmail.com**
 
 ---
 
-## 🚀 Languages and Tools
+## Languages and Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
@@ -54,7 +54,7 @@ Machine Learning • AI • Advanced MERN Development
 ---
 
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <div align="center">
 
@@ -65,7 +65,7 @@ Machine Learning • AI • Advanced MERN Development
 ---
 
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="left">
 
@@ -73,11 +73,6 @@ Machine Learning • AI • Advanced MERN Development
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
----
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Akankshaverma6387&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
 
 <a href="https://www.linkedin.com/in/akanksha-verma-7a8723321">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
